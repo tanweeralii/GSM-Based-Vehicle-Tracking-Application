@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615904242098",
+    "firebase_url": "https://vehicle-tracking-system-346511-default-rtdb.firebaseio.com",
+    "project_id": "vehicle-tracking-system-346511",
+    "storage_bucket": "vehicle-tracking-system-346511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615904242098:android:4cdb8f68b43c8598e71cab",
+        "android_client_info": {
+          "package_name": "com.scelon.vehicletracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615904242098-l891i3ei9sdgmtvuc5ecr2c8mj2q65je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scelon.vehicletracking",
+            "certificate_hash": "6cfaad4f74acee8fa38c187be6a28bf237226d52"
+          }
+        },
+        {
+          "client_id": "615904242098-0g3snia9f7njp9bo047ir97qhu6tc5ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FDC1-l5FXSQWGy2GAU5UwfOj_Y8mUwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615904242098-0g3snia9f7njp9bo047ir97qhu6tc5ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
